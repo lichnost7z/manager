@@ -1,0 +1,23 @@
+body {
+    background-color: #D4F4FC;
+    font: 14px/16px "Ubuntu Condensed","Arial","Helvetica",sans-serif;
+    
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.left {
+    border: 2px solid #C1D7F4;
+    border-radius: 10px;
+    padding: 10px;
+    width: 300px;
+}
+.center {
+    border: 2px solid #C1D7F4;
+    border-radius: 10px;
+    padding: 10px;
+    width: 95%;
+}
